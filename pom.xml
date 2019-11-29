@@ -216,16 +216,5 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
-  
-  <distributionManagement>
-    <snapshotRepository>
-      <id>sample-snap</id>
-      <url>http://54.173.30.161:8081/repository/sample-snap/</url>
-    </snapshotRepository>
-    <repository>
-      <id>sample-rel</id>
-      <url>http://54.173.30.161:8081/repository/sample-rel/</url>
-    </repository>
-  </distributionManagement>
 
 </project>
